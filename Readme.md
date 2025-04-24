@@ -7,7 +7,7 @@
 - [x] rename.js - implement function that renames file wrongFilename.txt to properFilename with extension .md (if there's no file wrongFilename.txt or properFilename.md already exists Error with message FS operation failed must be thrown)
 - [x] delete.js - implement function that deletes file fileToRemove.txt (if there's no file fileToRemove.txt Error with message FS operation failed must be thrown)
 - [x] list.js - implement function that prints array of all filenames from files folder into console (if files folder doesn't exists Error with message FS operation failed must be thrown)
-- [ ] read.js - implement function that prints content of the fileToRead.txt into console (if there's no file fileToRead.txt Error with message FS operation failed must be thrown)
+- [x] read.js - implement function that prints content of the fileToRead.txt into console (if there's no file fileToRead.txt Error with message FS operation failed must be thrown)
 
 ### Command line interface(src/cli)
 
