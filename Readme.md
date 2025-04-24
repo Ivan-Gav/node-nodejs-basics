@@ -11,7 +11,7 @@
 
 ### Command line interface(src/cli)
 
-- [ ] env.js - implement function that parses environment variables with prefix RSS\_ and prints them to the console in the format RSS_name1=value1; RSS_name2=value2
+- [x] env.js - implement function that parses environment variables with prefix RSS\_ and prints them to the console in the format RSS_name1=value1; RSS_name2=value2
 - [ ] args.js - implement function that parses command line arguments (given in format --propName value --prop2Name value2, you don't need to validate it) and prints them to the console in the format propName is value, prop2Name is value2
 
 ### Modules(src/modules)
