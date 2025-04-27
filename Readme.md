@@ -16,7 +16,7 @@
 
 ### Modules(src/modules)
 
-- [ ] cjsToEsm.cjs - rewrite it to it's equivalent in ECMAScript notation (and rename it to esm.mjs)
+- [x] cjsToEsm.cjs - rewrite it to it's equivalent in ECMAScript notation (and rename it to esm.mjs)
 
 ### Hash (src/hash)
 
